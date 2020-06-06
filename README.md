@@ -65,5 +65,5 @@ elasticsearch.hosts: [ "http://elasticsearch:9200" ]
 elasticsearch.username: kibana
 elasticsearch.password: <kibana password>
 ```
-- woala run docker-compose up and that's it
+- voila run docker-compose up and that's it
 - http://codingfundas.com/setting-up-elasticsearch-6-8-with-kibana-and-x-pack-security-enabled/index.html
